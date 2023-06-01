@@ -52,8 +52,8 @@ features = ['NAME_CONTRACT_TYPE', 'CODE_GENDER', 'FLAG_OWN_CAR', 'FLAG_OWN_REALT
 predict_url = 'http://127.0.0.1:5000/predict'
 
 
-train = pd.DataFrame('new_tr.csv')
-test = pd.DataFrame('application_test.csv')
+train = pd.read_csv('new_tr.csv')
+test = pd.read_csv('application_test.csv')
 
 
 client_id = st.number_input('Sélectionnez l\'ID du client', min_value=100001, max_value=100001+train.shape[0])
@@ -66,9 +66,6 @@ def get_prediction(row_number):
     response = requests.post(predict_url, json=data)
     return response.json(),response.status_code
 
-def get_csv():
-    response = requests.post(_url, json=data)
-    return response.json(),response.status_code
 
 
 if client_id in list(test['SK_ID_CURR']):
