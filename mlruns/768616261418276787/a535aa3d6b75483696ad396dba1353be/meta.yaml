@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matrice/Projet_7_OC/Home-credit/mlruns/768616261418276787/a535aa3d6b75483696ad396dba1353be/artifacts
+end_time: 1685023725828
+entry_point_name: ''
+experiment_id: '768616261418276787'
+lifecycle_stage: active
+run_id: a535aa3d6b75483696ad396dba1353be
+run_name: rumbling-perch-784
+run_uuid: a535aa3d6b75483696ad396dba1353be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685023720453
+status: 3
+tags: []
+user_id: matrice

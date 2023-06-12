@@ -1,0 +1,1 @@
+Cette application streamlit est une application qui permet grâce à l'ID d'un client correspondant à une demande de crédit pour prêt immobilier d'accepter ou non le crédit grâce à une requête via une API qui 

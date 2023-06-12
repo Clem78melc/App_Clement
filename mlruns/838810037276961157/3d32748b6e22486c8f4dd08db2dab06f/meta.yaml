@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matrice/Projet_7_OC/Home-credit/mlruns/838810037276961157/3d32748b6e22486c8f4dd08db2dab06f/artifacts
+end_time: 1685023420156
+entry_point_name: ''
+experiment_id: '838810037276961157'
+lifecycle_stage: active
+run_id: 3d32748b6e22486c8f4dd08db2dab06f
+run_name: agreeable-quail-670
+run_uuid: 3d32748b6e22486c8f4dd08db2dab06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685023414411
+status: 3
+tags: []
+user_id: matrice

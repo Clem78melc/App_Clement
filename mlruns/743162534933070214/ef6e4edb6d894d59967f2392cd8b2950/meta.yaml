@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matrice/Projet_7_OC/Home-credit/mlruns/743162534933070214/ef6e4edb6d894d59967f2392cd8b2950/artifacts
+end_time: 1685022355332
+entry_point_name: ''
+experiment_id: '743162534933070214'
+lifecycle_stage: active
+run_id: ef6e4edb6d894d59967f2392cd8b2950
+run_name: glamorous-cow-196
+run_uuid: ef6e4edb6d894d59967f2392cd8b2950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685022350972
+status: 3
+tags: []
+user_id: matrice

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matrice/Projet_7_OC/Home-credit/mlruns/782044626388624733/69ac4972d7dc443a8239e694aef0bae1/artifacts
+end_time: 1685023822038
+entry_point_name: ''
+experiment_id: '782044626388624733'
+lifecycle_stage: active
+run_id: 69ac4972d7dc443a8239e694aef0bae1
+run_name: brawny-mare-980
+run_uuid: 69ac4972d7dc443a8239e694aef0bae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685023816708
+status: 3
+tags: []
+user_id: matrice

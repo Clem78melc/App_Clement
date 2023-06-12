@@ -1,0 +1,6 @@
+artifact_location: file:///Users/matrice/Projet_7_OC/Home-credit/mlruns/743162534933070214
+creation_time: 1685022350967
+experiment_id: '743162534933070214'
+last_update_time: 1685022350967
+lifecycle_stage: active
+name: XGBoost experiment

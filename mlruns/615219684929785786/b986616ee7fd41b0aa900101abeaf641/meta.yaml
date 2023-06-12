@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matrice/Projet_7_OC/Home-credit/mlruns/615219684929785786/b986616ee7fd41b0aa900101abeaf641/artifacts
+end_time: 1685021410056
+entry_point_name: ''
+experiment_id: '615219684929785786'
+lifecycle_stage: active
+run_id: b986616ee7fd41b0aa900101abeaf641
+run_name: auspicious-sponge-28
+run_uuid: b986616ee7fd41b0aa900101abeaf641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685021401888
+status: 3
+tags: []
+user_id: matrice
